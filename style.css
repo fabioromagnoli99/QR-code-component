@@ -33,15 +33,15 @@ main {
   border-radius: 12px;
 }
 
-.text {
+.container {
   padding: 22px 10px;
 }
 
-.text h2 {
+.container h1 {
   color: hsl(218, 44%, 22%);
   padding-bottom: 15px;
 }
 
-.text p {
+.container p {
   color: hsl(220, 15%, 55%);
 }
