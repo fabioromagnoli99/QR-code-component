@@ -18,17 +18,13 @@ body {
 main {
   max-width: 350px;
   margin: 0 auto;
-}
-
-.card {
   background-color: hsl(0, 0%, 100%);
   padding: 18px;
   border-radius: 17px;
   text-align: center;
-  margin: 0 1rem;
 }
 
-.card img {
+img {
   width: 100%;
   border-radius: 12px;
 }
